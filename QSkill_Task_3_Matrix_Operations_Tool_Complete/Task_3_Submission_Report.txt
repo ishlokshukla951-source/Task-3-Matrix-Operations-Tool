@@ -1,0 +1,7 @@
+QSkill Python Development Internship – Task 3
+Matrix Operations Tool using Python and NumPy
+
+The tool provides an interactive menu for matrix addition, subtraction, multiplication, transpose and determinant. It validates compatible dimensions and square matrices for determinants.
+
+Technology: Python 3, NumPy
+Run with: python matrix_operations_tool.py
